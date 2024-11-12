@@ -1,0 +1,30 @@
+{
+  "name": "weatherwizbot",
+  "version": "1.0.0",
+  "description": "Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohit-mishra/Weather_telegram_bot.git"
+  },
+  "keywords": [
+    "Github"
+  ],
+  "author": "Sohit Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohit-mishra/Weather_telegram_bot/issues"
+  },
+  "homepage": "https://github.com/sohit-mishra/Weather_telegram_bot#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "axois": "^0.0.1-security",
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.66.0",
+    "telegraf": "^4.16.3"
+  }
+}
