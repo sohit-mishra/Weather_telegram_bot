@@ -90,11 +90,11 @@ Once the bot is running, it will start listening for messages on Telegram.
 If you are using this project via the live bot, click here to visit:  
 
 **Name**: ClimateCast_Bot  
-[🤖 Bot Live Link](https://web.telegram.org/k/#@ClimateCast_Bot)  
+🤖[Bot Live Link](https://web.telegram.org/k/#@ClimateCast_Bot)  
 
 ---
 
 ## 🤝 Like This Project? Connect With Me!
 
 If you like this project and want to create more Telegram bots, feel free to connect with me on LinkedIn:  
-[🔗 LinkedIn Profile](https://www.linkedin.com/in/sohitmishra/)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/sohitmishra/)
