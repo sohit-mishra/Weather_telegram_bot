@@ -15,7 +15,7 @@ A simple Telegram bot that provides current weather information for any city. Th
 ## 🔧 Prerequisites
 
 - ✅ Node.js installed on your system.
-- 🤖 A Telegram Bot token (can be obtained by chatting with [BotFather](https://core.telegram.org/bots#botfather) on Telegram).
+- 🤖 A Telegram Bot token (can be obtained by chatting with [BotFather](https://web.telegram.org/k/#@BotFather) on Telegram).
 - 🔑 An OpenWeather API key (can be obtained from [OpenWeatherMap](https://openweathermap.org/api)).
 
 ---
